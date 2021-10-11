@@ -250,7 +250,7 @@
         transform: translate(-50%,-50%);
     }
 	.slider__dots {
-		left: -10px;
+		left: -15px;
 		bottom: -10px;
 	}
     .col-6 {
